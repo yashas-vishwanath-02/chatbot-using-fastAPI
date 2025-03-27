@@ -1,0 +1,38 @@
+[
+    {
+        "customer_query": "I need a gaming phone under $500",
+        "response": "I recommend the iPhone SE2"
+    },
+    {
+        "customer_query": "Which phone has the best camera quality?",
+        "response": "The Google Pixel 7 Pro and iPhone 14 Pro are known for their excellent cameras."
+    },
+    {
+        "customer_query": "Suggest a budget smartphone for everyday use.",
+        "response": "You can consider the Redmi Note 12 or Samsung Galaxy M14."
+    },
+    {
+        "customer_query": "What is the latest iPhone available?",
+        "response": "The latest iPhone available is the iPhone 15 Pro Max."
+    },
+    {
+        "customer_query": "Which phone has the best battery life?",
+        "response": "The Asus ROG Phone 7 and Samsung Galaxy M51 offer excellent battery life."
+    },
+    {
+        "customer_query": "Recommend me a nice camera phone under $1000",
+        "response": "You can check out the iPhone 16 Pro Max or the Samsung Galaxy Ultra if you are more inclined towards Android."
+    },
+    {
+        "customer_query": "Any new Android model in 120$",
+        "response": "I would recommend Redmi 5"
+    },
+    {
+        "customer_query": "What are the features of oneplus 12R",
+        "response": "120Hz duisplay Snapdragon 6969."
+    },
+    {
+        "customer_query": "Recommend a phone under $400",
+        "response": "Oneplus 13T"
+    }
+]
